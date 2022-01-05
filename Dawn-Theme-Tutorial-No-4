@@ -13,25 +13,25 @@ DEFAULT: BOTTOM -- LEFT
 /* BOTTOM -- RIGHT */
 
 .card__badge {
-    bottom: 1rem;
-    left: auto;
-    right: 1rem;
+    bottom: 1rem !important;
+    left: auto !important;
+    right: 1rem !important;
 }
 
 /* TOP -- LEFT */
 
 .card__badge {
-    bottom: auto;
-    top: 1rem;
-    left: 1rem;
+    bottom: auto !important;
+    top: 1rem !important;
+    left: 1rem !important;
 }
 
 /* TOP -- RIGHT */
 
 .card__badge {
-    bottom: auto;
-    top: 1rem;
-    left: auto;
-    right: 1rem;
+    bottom: auto !important;
+    top: 1rem !important;
+    left: auto !important;
+    right: 1rem !important;
 }
 
