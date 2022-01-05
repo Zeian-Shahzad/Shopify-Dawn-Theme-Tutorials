@@ -1,0 +1,37 @@
+/* 
+Positions: 4
+
+BOTTOM -- LEFT
+BOTTOM -- RIGHT
+TOP -- LEFT
+TOP -- RIGHT
+
+DEFAULT: BOTTOM -- LEFT
+
+*/
+
+/* BOTTOM -- RIGHT */
+
+.card__badge {
+    bottom: 1rem;
+    left: auto;
+    right: 1rem;
+}
+
+/* TOP -- LEFT */
+
+.card__badge {
+    bottom: auto;
+    top: 1rem;
+    left: 1rem;
+}
+
+/* TOP -- RIGHT */
+
+.card__badge {
+    bottom: auto;
+    top: 1rem;
+    left: auto;
+    right: 1rem;
+}
+
